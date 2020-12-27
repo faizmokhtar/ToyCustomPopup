@@ -11,6 +11,7 @@
 		9CD48F5425982FD60084FDF2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD48F5325982FD60084FDF2 /* ContentView.swift */; };
 		9CD48F5625982FD70084FDF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD48F5525982FD70084FDF2 /* Assets.xcassets */; };
 		9CD48F5925982FD70084FDF2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CD48F5825982FD70084FDF2 /* Preview Assets.xcassets */; };
+		9CD48F62259834FA0084FDF2 /* VisualEffectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD48F61259834F90084FDF2 /* VisualEffectView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9CD48F5525982FD70084FDF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9CD48F5825982FD70084FDF2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9CD48F5A25982FD70084FDF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CD48F61259834F90084FDF2 /* VisualEffectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				9CD48F5125982FD60084FDF2 /* ToyCustomPopupApp.swift */,
 				9CD48F5325982FD60084FDF2 /* ContentView.swift */,
+				9CD48F61259834F90084FDF2 /* VisualEffectView.swift */,
 				9CD48F5525982FD70084FDF2 /* Assets.xcassets */,
 				9CD48F5A25982FD70084FDF2 /* Info.plist */,
 				9CD48F5725982FD70084FDF2 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				9CD48F5425982FD60084FDF2 /* ContentView.swift in Sources */,
 				9CD48F5225982FD60084FDF2 /* ToyCustomPopupApp.swift in Sources */,
+				9CD48F62259834FA0084FDF2 /* VisualEffectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
